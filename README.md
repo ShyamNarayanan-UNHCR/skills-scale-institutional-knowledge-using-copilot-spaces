@@ -1,40 +1,37 @@
-# OctoAcme Project Management Docs
+<div align="center">
 
-## Overview
+# 🎉 Congratulations ShyamNarayanan-UNHCR! 🎉
 
-OctoAcme uses a customer-first, iterative project management approach with clear ownership, measurable outcomes, and continuous improvement. The process covers the full lifecycle: initiating and authorizing work, planning scope and delivery, executing and tracking progress, managing risks and communication, releasing and deploying safely, and capturing lessons through retrospectives. Core roles include Project Managers, Product Managers, Developers, QA/Testing, and stakeholders.
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-## Documentation
+### 🌟 You've successfully completed the exercise! 🌟
 
-The process guidance is organized in the `docs/` folder:
+## 🚀 Share Your Success!
 
-- [Project Management Overview](docs/octoacme-project-management-overview.md) — Principles, roles, lifecycle, artifacts, and communication cadence.
-- [Project Initiation](docs/octoacme-project-initiation.md) — Business need, stakeholders, success criteria, risks, resources, and the decision gate for planning.
-- [Project Planning](docs/octoacme-project-planning.md) — Backlog creation, prioritization, estimation, Definition of Done, dependencies, risks, and release planning.
-- [Execution and Tracking](docs/octoacme-execution-and-tracking.md) — Team rhythm, project-board workflow, pull requests, quality practices, metrics, and blocker escalation.
-- [Risk Management and Communication](docs/octoacme-risks-and-communication.md) — Risk register, risk lifecycle, stakeholder updates, incident communication, and escalation paths.
-- [Release and Deployment](docs/octoacme-release-and-deployment.md) — Release types, pre-release requirements, deployment checklist, rollback, incident response, and release notes.
-- [Retrospective and Continuous Improvement](docs/octoacme-retrospective-and-continuous-improvement.md) — Retrospective structure, action-item tracking, and improvement practices.
-- [Roles and Personas](docs/octoacme-roles-and-personas.md) — Responsibilities, goals, and communication patterns for key project roles.
+**Show off your new skills and inspire others!**
 
-## Project Management Process Summary
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Scale%20institutional%20knowledge%20using%20Copilot%20Spaces%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FShyamNarayanan-UNHCR%2Fskills-scale-institutional-knowledge-using-copilot-spaces%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Scale%20institutional%20knowledge%20using%20Copilot%20Spaces%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FShyamNarayanan-UNHCR%2Fskills-scale-institutional-knowledge-using-copilot-spaces%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Scale%20institutional%20knowledge%20using%20Copilot%20Spaces%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FShyamNarayanan-UNHCR%2Fskills-scale-institutional-knowledge-using-copilot-spaces%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
 
-### Initiation and Planning
+### 🎯 What's Next?
 
-Projects begin by validating the business need and defining a measurable objective, success metrics, stakeholders, initial timeline, risks, dependencies, and resource needs in a project one-pager. The team moves into planning once the success metrics are clear, stakeholders agree on priority, and team availability is confirmed. Planning then turns the approved initiative into a prioritized backlog of shippable increments with acceptance criteria, estimates, owners, a Definition of Done, identified dependencies, and an agreed release plan.
+**Keep the momentum going!**
 
-### Execution, Tracking, and Quality
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/ShyamNarayanan-UNHCR/skills-scale-institutional-knowledge-using-copilot-spaces/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills)
 
-During execution, the team uses a project board with stages such as Backlog, Ready, In Progress, In Review, QA, and Done. Regular standups focus on progress, blockers, and dependencies; weekly delivery or PM/Product Manager syncs review progress and risks; and demos or reviews occur at the end of sprints or milestones. Pull requests should be small where possible, link to the relevant issue, include acceptance criteria, and receive the required review approval. Quality practices include unit tests for new logic, integration tests where applicable, end-to-end smoke tests for critical flows, CI checks for tests and linting, security scanning, and manual QA when needed.
+*There's no better way to learn than building things!* 🚀
 
-### Roles, Communication, and Risk Management
+</div>
 
-Project Managers coordinate delivery, schedules, risks, dependencies, documentation, and stakeholder communication. Product Managers define outcomes, prioritize the backlog, and measure success. Developers implement and test solutions, participate in reviews, and identify technical risks. QA/Testing validates quality and acceptance criteria, while stakeholders provide input and approvals. Communication uses shared project artifacts as a single source of truth, supported by regular team and stakeholder updates. Risks are recorded with their impact, likelihood, owner, mitigation, and status; blockers and dependencies are reviewed regularly and escalated from the team to the PM, Product Lead, and sponsor when necessary.
+---
 
-### Release and Continuous Improvement
+&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
-Before release, acceptance criteria must be met, CI and security checks must pass, release notes must be drafted, rollback or mitigation plans must be documented, and smoke tests must be prepared. Deployments follow a staged process with post-deployment verification and stakeholder notification. If a critical issue occurs, the team triggers incident response and rolls back to the last known-good release when appropriate. After each sprint, release, milestone, or incident, retrospectives capture what went well, what could improve, and a small number of owned, time-bound action items. Those actions are tracked in the backlog or issues and reviewed during ongoing project-management syncs.
-
-## How to Use These Documents
-
-Start with the [Project Management Overview](docs/octoacme-project-management-overview.md), then use the lifecycle-specific guides as the project progresses. Keep project-specific plans, risks, decisions, status updates, release information, and retrospective actions current in the repository or project workspace.
